@@ -12,3 +12,5 @@ Steps to run the script
    Python3 checkslot.py
 
 PS: Script can be scheduled to run everyhour to have mail notification every hour
+
+Feel free to modify the script as per your need :)
